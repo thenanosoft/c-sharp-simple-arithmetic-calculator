@@ -1,0 +1,10 @@
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\Farhan Ellahi\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Calculator.resources
